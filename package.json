@@ -1,0 +1,36 @@
+{
+  "name": "dijkstras-api",
+  "version": "1.0.0",
+  "description": "\"Use to implement google maps navigation between locations\"",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "seed": "node dist/seed/index.js",
+    "tsc": "tsc",
+    "start-dev": "nodemon src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cassimHamisi/dijkstras-api.git"
+  },
+  "keywords": [
+    "dijkstras",
+    "algorithm"
+  ],
+  "author": "cassimHamisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cassimHamisi/dijkstras-api/issues"
+  },
+  "homepage": "https://github.com/cassimHamisi/dijkstras-api#readme",
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "@types/mongoose": "^5.11.97",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.1",
+    "mongoose": "^8.2.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
+  }
+}
