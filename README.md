@@ -41,7 +41,7 @@ This project implements Dijkstra's algorithm to find the shortest path between l
 1. Clone the backend repository:
 
    ```bash
-   git clone https://github.com/your-username/backend-repo.git
+   git clone https://github.com/cassimHamisi/dijkstras-api
    cd backend-repo
    ```
 
@@ -69,7 +69,7 @@ This project implements Dijkstra's algorithm to find the shortest path between l
 1. Clone the frontend repository:
 
    ```bash
-   git clone https://github.com/your-username/frontend-repo.git
+   git clone https://github.com/cassimHamisi/dijkstrasui
    cd frontend-repo
    ```
 
